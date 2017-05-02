@@ -1,0 +1,11 @@
+{
+  "name": "font-awesome-error",
+  "private": true,
+  "dependencies": {
+    "polymer": "^1.7.1",
+    "px-data-table": "^2.1.4"
+  },
+  "devDependencies": {
+    "web-component-tester": "^5.0.0"
+  }
+}
