@@ -1,8 +1,8 @@
 To reproduce the error:
-
+```
 > bower install
 > polymer test
-
+```
 WCT is configured to keep the browser open after the unit test runs.
 
 The errors should appear in the console as well as the browser console in dev tools:
